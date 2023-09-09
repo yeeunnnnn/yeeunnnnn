@@ -12,5 +12,5 @@ I'm a persistent person, who study hard day and night for be a good developer.ðŸ
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> 
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeeunnnnn&show_icons=true&theme=great-gatsby) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunnnnn&layout=compact&theme=great-gatsby)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeeunnnnn&show_icons=true&theme=github_dark ) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunnnnn&layout=compact&theme=github_dark )](https://github.com/metleeha)
