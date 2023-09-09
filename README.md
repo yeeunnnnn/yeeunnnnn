@@ -13,5 +13,5 @@ I'm a persistent person, who study hard day and night for be a good developer.ğŸ
 </div>
 
 <div align=center>
-[![yeeunnnnn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeeunnnnn&show_icons=true&theme=great-gatsbya&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeunnnnn)](https://github.com/anuraghazra/github-readme-stats)
 </div>
