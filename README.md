@@ -13,4 +13,4 @@ I'm a persistent person, who study hard day and night for be a good developer.ðŸ
 </div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeeunnnnn&show_icons=true&theme=great-gatsby) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunnnnn&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunnnnn&layout=compact&theme=great-gatsby)](https://github.com/metleeha)
