@@ -1,6 +1,5 @@
-[[https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(to right, #ff00ff, #00ffff)&text=YEEUNNNNN&fontAlign=30&fontSize=30&textBg=true&textBgColor=black&desc=This%20is%20yeeun%20Github&descAlign=60&descAlignY=50](https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(to right, #ff00ff, #00ffff)&text=YEEUNNNNN&fontAlign=30&fontSize=30&textBg=true&textBgColor=black&desc=This%20is%20yeeun%20Github&descAlign=60&descAlignY=50
-)](https://capsule-render.vercel.app/api?type=rect&color=0:f700ff,100:00c0ff&text=YEEUNNNNN&fontAlign=30&fontSize=30&textBg=true&textBgColor=black&desc=This%20is%20yeeun%20Github&descAlign=60&descAlignY=50
-)
+https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(to right, #ff00ff, #00ffff)&text=YEEUNNNNN&fontAlign=30&fontSize=30&textBg=true&textBgColor=black&desc=This%20is%20yeeun%20Github&descAlign=60&descAlignY=50
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=EECEEA&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+GitHub+!!!)](https://git.io/typing-svg)
