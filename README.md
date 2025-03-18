@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=rect&color=0:f700ff,100:00c0ff&text=YEEUNNNNN&fontAlign=30&fontSize=30&textBg=true&textBgColor=black&desc=This%20is%20yeeun%20Github&descAlign=60&descAlignY=50
+https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff00ff,8000ff,4000ff,00c0ff&text=YEEUNNNNN&fontAlign=30&fontSize=30&textBg=true&textBgColor=black&desc=This%20is%20yeeun%20Github&descAlign=60&descAlignY=50
 
 
 
